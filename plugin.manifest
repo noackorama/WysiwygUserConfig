@@ -2,4 +2,4 @@ pluginname=WysiwygUserConfig
 pluginclassname=WysiwygUserConfig
 origin=data-quest
 version=1
-StudipMinVersion=3.0
+studipMinVersion=3.0
